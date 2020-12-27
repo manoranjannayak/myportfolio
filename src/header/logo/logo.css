@@ -1,0 +1,13 @@
+/* .img-fluid {
+    max-width: 70%;
+    margin: 31px;
+} */
+
+.logo{
+    width: 30%;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+}
